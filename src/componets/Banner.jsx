@@ -8,7 +8,7 @@ export default function Banner() {
     <main className="banner-main">
       <div className="banner-left">
         <button className="banner-btn-1">Never stop learning</button>
-        <p>Grow up your skills by online courses with Onlearning</p>
+        <p>Grow up your skills by online courses with Onlearning.</p>
         <div className="center">
           {" "}
           <button className="banner-btn-2">explore path</button>
