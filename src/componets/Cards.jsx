@@ -12,7 +12,7 @@ export default function Cards() {
       <div className="sec1-2">
         <button className="btn1">all programme</button>
         <button>ui/ux design</button>
-        <button>program design</button>
+        <button>program designs</button>
         <button>program design</button>
         <button>program design</button>
         <button>program design</button>
