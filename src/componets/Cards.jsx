@@ -13,7 +13,7 @@ export default function Cards() {
         <button className="btn1">all programme</button>
         <button>ui/ux design</button>
         <button>program designs</button>
-        <button>program design</button>
+        <button>program designs</button>
         <button>program design</button>
         <button>program design</button>
       </div>
