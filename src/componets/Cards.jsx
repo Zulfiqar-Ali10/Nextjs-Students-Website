@@ -15,7 +15,7 @@ export default function Cards() {
         <button>program designs</button>
         <button>program designs</button>
         <button>program designs</button>
-        <button>program design</button>
+        <button>program designs</button>
       </div>
       <div className="sec1-3">
         <div className="sec1-3-card1">
