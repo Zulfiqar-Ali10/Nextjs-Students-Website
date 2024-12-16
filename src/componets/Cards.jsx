@@ -24,7 +24,7 @@ export default function Cards() {
             <h3 className="section-1-h3">Product Management Basic - Course</h3>
             <p className="section-1-p">
               Product Management Masterclass, you will learn with Sarah Johnson
-              - Head of Product Customer Platform Gojek Indonesia.
+              - Head to Product Customer Platform Gojek Indonesia.
             </p>
             <div className="sec1-3-center">
               <div className="sec1-3-center-flex">
