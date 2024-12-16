@@ -11,7 +11,7 @@ export default function Girl() {
         <i className="fa-brands fa-galactic-republic">
           <span>
             Teachers don’t get lost in the grid view and have a dedicated Podium
-            space.
+            space?
           </span>
         </i>
         <i className="fa-brands fa-galactic-republic">

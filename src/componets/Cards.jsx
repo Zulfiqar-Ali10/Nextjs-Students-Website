@@ -28,8 +28,8 @@ export default function Cards() {
             </p>
             <div className="sec1-3-center">
               <div className="sec1-3-center-flex">
-                <p className="para-1">$ 480</p>
-                <p className="para-2">$ 600</p>
+                <p className="para-1">$ 380</p>
+                <p className="para-2">$ 500</p>
               </div>
               <button className="sec1-3-btn">Enroll Now</button>
             </div>
